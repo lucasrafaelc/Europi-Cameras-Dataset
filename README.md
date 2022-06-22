@@ -1,4 +1,4 @@
-# Europi-Cameras-Dataset
+# Europi Cameras Dataset
 Camera Dataset for Aspect-Based Sentiment Analysis
 
 Europi Cameras Dataset is a dataset with reviews on digital cameras collected from amazon.com, amazon.es, and amazon.it in three languages, namely English (EN), Spanish (ES), and Italian (IT).
