@@ -1,0 +1,1772 @@
+<Reviews>
+<Review rid="83">
+<sentences>
+<sentence id="83">
+<text>Questa compatta mi ha stupita , è semplice ma offre grandi prestazioni , è facile da usare anche per una persona che ama la fotografia ma non è un professionista !</text>
+<Opinions>
+<Opinion category="Performance" from="59" polarity="Positive" sentiment="grandi" target="prestazioni" to="70" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="531">
+<sentences>
+<sentence id="531">
+<text>Macchina fotografica veramente Ottima con un tempo di messa a fuoco e scatto veramente impressionante .</text>
+<Opinions>
+<Opinion category="Performance" from="70" polarity="Positive" sentiment="impressionante" target="scatto" to="76" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="592">
+<sentences>
+<sentence id="592">
+<text>Piccola ma dalle prestazioni meravigliose .</text>
+<Opinions>
+<Opinion category="Performance" from="17" polarity="Positive" sentiment="meravigliose" target="prestazioni" to="28" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="182">
+<sentences>
+<sentence id="182">
+<text>Fantastica compatta , effettua riprese pazzesche , tra la risoluzione massima è lo zoom eccezionale , non potevo desiderare di meglio</text>
+<Opinions>
+<Opinion category="Performance" from="31" polarity="Positive" sentiment="pazzesche" target="riprese" to="38" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="720">
+<sentences>
+<sentence id="720">
+<text>Un pò lento lo scatto , ma nulla a pretendere per questo prezzo .</text>
+<Opinions>
+<Opinion category="Performance" from="15" polarity="Negative" sentiment="lento" target="scatto" to="21" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="687">
+<sentences>
+<sentence id="687">
+<text>È molto molto lenta nella ripresa tra una foto e l’altra .</text>
+<Opinions>
+<Opinion category="Performance" from="26" polarity="Negative" sentiment="molto molto lenta" target="ripresa" to="33" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="379">
+<sentences>
+<sentence id="379">
+<text>Peccato per la mancanza di un mirino , senza il quale risulta difficile fare foto in piena luce solare</text>
+<Opinions>
+<Opinion category="Display" from="30" polarity="Negative" sentiment="mancanza" target="mirino" to="36" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="53">
+<sentences>
+<sentence id="53">
+<text>Ecco , l'unica grossa delusione è questa , speravo , non essendo dotata di mirino , che il display avesse una marcia in più .</text>
+<Opinions>
+<Opinion category="Display" from="75" polarity="Negative" sentiment="grossa delusione" target="mirino" to="81" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="682">
+<sentences>
+<sentence id="682">
+<text>Difetto : lo schermo LCD non è orientabile e con molta luce è difficile inquadrare bene il soggetto a causa di riflessi eccetera</text>
+<Opinions>
+<Opinion category="Display" from="13" polarity="Negative" sentiment="non è orientabile" target="schermo LCD" to="24" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="486">
+<sentences>
+<sentence id="486">
+<text>Ottima qualità prezzo , il mirino elettronico è semplicemente qualcosa di stupendo.Consiglio di provare anche altre lenti con samyang e sigma su questa macchina molto leggera e comoda da portare .</text>
+<Opinions>
+<Opinion category="Display" from="27" polarity="Positive" sentiment="stupendo" target="mirino elettronico" to="45" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="173">
+<sentences>
+<sentence id="173">
+<text>La batteria non tradisce : in un giorno ho scattato anche 300 foto senza problemi .</text>
+<Opinions>
+<Opinion category="Battery" from="3" polarity="Positive" sentiment="non tradisce" target="batteria" to="11" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="726">
+<sentences>
+<sentence id="726">
+<text>La fotocamera funziona bene ed il pacco è arrivato in ottime condiziaoni , ma devo fare un appunto sul caricabatterie che non funziona correttamente .</text>
+<Opinions>
+<Opinion category="Battery" from="103" polarity="Negative" sentiment="non funziona correttamente" target="caricabatterie" to="117" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="633">
+<sentences>
+<sentence id="633">
+<text>Prodotto molto buono che vale sicuramente il prezzo ma con qualche piccola carenza come ad esempio il fatto che da un colosso come sony non ti includono il carica batteria esterno .</text>
+<Opinions>
+<Opinion category="Battery" from="156" polarity="Negative" sentiment="non ti includono" target="carica batteria esterno" to="179" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="476">
+<sentences>
+<sentence id="476">
+<text>Non ho dato 5 stelle per durata batteria ...</text>
+<Opinions>
+<Opinion category="Battery" from="25" polarity="Negative" sentiment="Non ho dato 5 stelle" target="durata batteria" to="40" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="664">
+<sentences>
+<sentence id="664">
+<text>La batteria dura un sacco , si carica velocemente , l'app per cellulare funziona da subito .</text>
+<Opinions>
+<Opinion category="Battery" from="3" polarity="Positive" sentiment="dura un sacco" target="batteria" to="11" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="237">
+<sentences>
+<sentence id="237">
+<text>Un po ' difficoltosa la messa a fuoco per oggetti molto vicini , nessun problema invece per la messa a fuoco anche di oggetti lontani .</text>
+<Opinions>
+<Opinion category="Exposure" from="24" polarity="Negative" sentiment="difficoltosa" target="messa a fuoco" to="37" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="689">
+<sentences>
+<sentence id="689">
+<text>Questa fotocamera sony è una compatta di ottimo livello , con un elevato grado di controllo manuale pur restando sempre un a compatta .</text>
+<Opinions>
+<Opinion category="Exposure" from="82" polarity="Positive" sentiment="elevato grado" target="controllo manuale" to="99" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="426">
+<sentences>
+<sentence id="426">
+<text>Non riesce a moderare il flash</text>
+<Opinions>
+<Opinion category="Exposure" from="25" polarity="Negative" sentiment="Non riesce a moderare" target="flash" to="30" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="617">
+<sentences>
+<sentence id="617">
+<text>La macchina è davvero valida , con un buon supporto automatico per cui consigliata anche a chi , come me , non è un esperto fotografo .</text>
+<Opinions>
+<Opinion category="Exposure" from="52" polarity="Positive" sentiment="buon supporto" target="automatico" to="62" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="745">
+<sentences>
+<sentence id="745">
+<text>Veramente veloce nella messa a fuoco per cogliere l'attimo , un gioiellino .</text>
+<Opinions>
+<Opinion category="Exposure" from="23" polarity="Positive" sentiment="veloce" target="messa a fuoco" to="36" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="416">
+<sentences>
+<sentence id="416">
+<text>Purtroppo credo si è voluto spingere troppo su tutti i settori ed alla fine il piccolissimo sensore con la risoluzione addirittura da 20 Mpx finisce per dare immagini che anche a ISO 100 viste a tutto schermo mostrano un livello di artefatti e di rumore che proprio non sono riuscito a digerire tanto che ho restituito la fotocamera .</text>
+<Opinions>
+<Opinion category="Exposure" from="92" polarity="Negative" sentiment="piccolissimo" target="sensore" to="99" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="143">
+<sentences>
+<sentence id="143">
+<text>La fotocamera è esattamente quello che mi aspettavo da un sensore amatoriale 1/2 .3 ' : in condizioni di luminosità scarsa , la fotocamera mostra tutti i suoi limiti , ma il superzoom 30x è spettacolare .</text>
+<Opinions>
+<Opinion category="Exposure" from="58" polarity="Negative" sentiment="limiti" target="sensore amatoriale 1/2 .3 '" to="85" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="492">
+<sentences>
+<sentence id="492">
+<text>Il sensore APSC aiuta molto in lowlight ( ovviamente rispetto ad un micro 4/3 ) .</text>
+<Opinions>
+<Opinion category="Exposure" from="3" polarity="Positive" sentiment="aiuta molto in lowlight" target="sensore APSC" to="15" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="239">
+<sentences>
+<sentence id="239">
+<text>Veloce nella messa a fuoco e accensione e spegnimenti .</text>
+<Opinions>
+<Opinion category="Exposure" from="13" polarity="Positive" sentiment="Veloce" target="messa a fuoco" to="26" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="771">
+<sentences>
+<sentence id="771">
+<text>Il sensore si comporta bene in condizioni di luce buona mentre con luci molto basse non riesce a catturare moltissimo luce .</text>
+<Opinions>
+<Opinion category="Exposure" from="3" polarity="Negative" sentiment="non riesce a catturare moltissimo luce" target="sensore" to="10" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="151">
+<sentences>
+<sentence id="151">
+<text>Impostazioni relativamente semplici , messa a fuoco sufficientemente rapida .</text>
+<Opinions>
+<Opinion category="Exposure" from="46" polarity="Positive" sentiment="sufficientemente rapida" target="fuoco" to="51" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="225">
+<sentences>
+<sentence id="225">
+<text>La prima cosa che ti cattura e lo zoom 30x e che anche con lo zoom al massimo riesce a mettere a fuoco perfettamente .</text>
+<Opinions>
+<Opinion category="Exposure" from="97" polarity="Positive" sentiment="perfettamente" target="fuoco" to="102" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="160">
+<sentences>
+<sentence id="160">
+<text>Lo zoom è prodigioso e - dedicando un po ' di tempo alla lettura del manuale e agli esperimenti - gli automatismi per ottimizzare i settaggi nelle varie situazioni di luce e soggetto sono di immediata soddisfazione .</text>
+<Opinions>
+<Opinion category="Exposure" from="132" polarity="Positive" sentiment="immediata soddisfazione" target="settaggi" to="140" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="105">
+<sentences>
+<sentence id="105">
+<text>Comodo controllo della sovra e sotto esposizione direttamente con ghiera e tante altre funzioni interessanti ( HDR ecc . ) .</text>
+<Opinions>
+<Opinion category="Exposure" from="37" polarity="Positive" sentiment="Comodo" target="esposizione" to="48" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="702">
+<sentences>
+<sentence id="702">
+<text>Fa ottime foto , varie modalità di scatto anche con regolazione manuale</text>
+<Opinions>
+<Opinion category="Exposure" from="23" polarity="Positive" sentiment="varie" target="modalità di scatto" to="41" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="680">
+<sentences>
+<sentence id="680">
+<text>Ogni scatto con questa macchina è eccellente , la tengo impostata sempre su automatico perchè si regola automaticamente in modo perfetto !</text>
+<Opinions>
+<Opinion category="Exposure" from="76" polarity="Positive" sentiment="modo perfetto" target="automatico" to="86" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="562">
+<sentences>
+<sentence id="562">
+<text>Cari gli obiettivi a disposizione e ancora scarso il mercato dell ' usato .</text>
+<Opinions>
+<Opinion category="Lens" from="9" polarity="Negative" sentiment="Cari" target="obiettivi" to="18" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="740">
+<sentences>
+<sentence id="740">
+<text>Il 55 -210 e stata sorprendente pur essendo decisamente buia e quindi utilizzabile al meglio solo a luce piana ha una resa cromatica veramente buona e l af e rapidissimo ...</text>
+<Opinions>
+<Opinion category="Lens" from="3" polarity="Positive" sentiment="sorprendente" target="55 -210" to="10" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="439">
+<sentences>
+<sentence id="439">
+<text>Pur non avendo usato tutte le possibilità che offre , sono molto soddisfatto , il tele , anche a mano libera , ferma le immagini in modo eccezionale .</text>
+<Opinions>
+<Opinion category="Lens" from="82" polarity="Positive" sentiment="eccezionale" target="tele" to="86" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="631">
+<sentences>
+<sentence id="631">
+<text>Lo svantaggio di questo sistema è il costo delle ottiche , che sebbene siano di ottima qualità arrivano ad essere piuttosto costose nelle varianti G e Zeiss , per i videomaker di professione non sarà .</text>
+<Opinions>
+<Opinion category="Price" from="37" polarity="Negative" sentiment="svantaggio" target="costo" to="42" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="535">
+<sentences>
+<sentence id="535">
+<text>Ottimo rapporto qualità / costo .</text>
+<Opinions>
+<Opinion category="Price" from="7" polarity="Positive" sentiment="Ottimo" target="rapporto qualità / costo" to="31" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="638">
+<sentences>
+<sentence id="638">
+<text>Mirrorless con un buon rapporto qualità - prezzo .</text>
+<Opinions>
+<Opinion category="Price" from="23" polarity="Positive" sentiment="buon" target="rapporto qualità - prezzo" to="48" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="373">
+<sentences>
+<sentence id="373">
+<text>rapporto qualità prezzo ottimo .</text>
+<Opinions>
+<Opinion category="Price" from="0" polarity="Positive" sentiment="ottimo" target="rapporto qualità prezzo" to="23" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="109">
+<sentences>
+<sentence id="109">
+<text>Acquistata in offerta ad un prezzo veramente eccezionale</text>
+<Opinions>
+<Opinion category="Price" from="28" polarity="Positive" sentiment="veramente eccezionale" target="prezzo" to="34" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="522">
+<sentences>
+<sentence id="522">
+<text>Servizio di consegna di Amazon perfetto e prezzo conveniente .</text>
+<Opinions>
+<Opinion category="Price" from="42" polarity="Positive" sentiment="conveniente" target="prezzo" to="48" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="245">
+<sentences>
+<sentence id="245">
+<text>Foto buone con luce solare , meno con poca luce , intuitiva , buon rapporto qualità prezzo</text>
+<Opinions>
+<Opinion category="Price" from="67" polarity="Positive" sentiment="buon" target="rapporto qualità prezzo" to="90" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="95">
+<sentences>
+<sentence id="95">
+<text>Ottima fotocamera zoom per il prezzo proposto ( io l’ho pagata circa € 202,00 ) la qualità delle foto è buona ma non eccellente ( non sono un esperto di fotografia ) , comunque consigliata , in allegato 2 foto zoom .</text>
+<Opinions>
+<Opinion category="Price" from="30" polarity="Positive" sentiment="Ottima" target="prezzo" to="36" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="36">
+<sentences>
+<sentence id="36">
+<text>Prodotto qualità prezzo eccezionale !</text>
+<Opinions>
+<Opinion category="Price" from="9" polarity="Positive" sentiment="eccezionale" target="qualità prezzo" to="23" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="751">
+<sentences>
+<sentence id="751">
+<text>Ottima aps - c , compatta e indiscreta , accoppiata con un ottica pancake oppure l'obiettivo kit collassabile .</text>
+<Opinions>
+<Opinion category="General" from="7" polarity="Positive" sentiment="Ottima" target="aps - c" to="14" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="486">
+<sentences>
+<sentence id="486">
+<text>Ottima qualità prezzo , il mirino elettronico è semplicemente qualcosa di stupendo.Consiglio di provare anche altre lenti con samyang e sigma su questa macchina molto leggera e comoda da portare .</text>
+<Opinions>
+<Opinion category="General" from="152" polarity="Positive" sentiment="leggera" target="macchina" to="160" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="213">
+<sentences>
+<sentence id="213">
+<text>La fotocamera è di ottima qualità , sia per le foto che per i video .</text>
+<Opinions>
+<Opinion category="General" from="26" polarity="Positive" sentiment="ottima" target="qualità" to="33" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="625">
+<sentences>
+<sentence id="625">
+<text>Se non la conoscete , potete comprarla ad occhi chiusi , sia per professionisti che per foto amatori</text>
+<Opinions>
+<Opinion category="General" from="7" polarity="Positive" sentiment="potete comprarla ad occhi chiusi" target="la" to="9" type="anaphora" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="374">
+<sentences>
+<sentence id="374">
+<text>una compatta per tutte le occorrenze pratica e semplice da usare</text>
+<Opinions>
+<Opinion category="General" from="4" polarity="Positive" sentiment="pratica" target="compatta" to="12" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="628">
+<sentences>
+<sentence id="628">
+<text>Pienamente soddisfatto della piccolina sony .</text>
+<Opinions>
+<Opinion category="General" from="29" polarity="Positive" sentiment="Pienamente soddisfatto" target="piccolina sony" to="43" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="639">
+<sentences>
+<sentence id="639">
+<text>Ottima macchina , leggera , pratica , intuitiva , con risoluzione e funzionalità al di sopra della categoria .</text>
+<Opinions>
+<Opinion category="General" from="68" polarity="Positive" sentiment="sopra della categoria" target="funzionalità" to="80" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="344">
+<sentences>
+<sentence id="344">
+<text>Ottimo prodotto come da aspettative.Consegna celere come sempre</text>
+<Opinions>
+<Opinion category="General" from="7" polarity="Positive" sentiment="Ottimo" target="prodotto" to="15" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="294">
+<sentences>
+<sentence id="294">
+<text>a parte un po di sofferenza in condizioni di luce scarsa , è un ottima compatta , ottimo zoom e facile cambiare impostazioni , unica pecca il display non orientabile ma si risolve utilizzando il controllo remoto son lo smartphone .</text>
+<Opinions>
+<Opinion category="General" from="71" polarity="Positive" sentiment="ottima" target="compatta" to="79" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="733">
+<sentences>
+<sentence id="733">
+<text>Fotocamera di qualita come da aspettative ....</text>
+<Opinions>
+<Opinion category="General" from="0" polarity="Positive" sentiment="qualita" target="Fotocamera" to="10" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="531">
+<sentences>
+<sentence id="531">
+<text>Macchina fotografica veramente Ottima con un tempo di messa a fuoco e scatto veramente impressionante .</text>
+<Opinions>
+<Opinion category="General" from="0" polarity="Positive" sentiment="Ottima" target="Macchina fotografica" to="20" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="504">
+<sentences>
+<sentence id="504">
+<text>La macchina si comporta egregiamente , i file sono di qualità anche se a partire già da ISO 600 il disturbo è evidente .</text>
+<Opinions>
+<Opinion category="General" from="3" polarity="Positive" sentiment="comporta egregiamente" target="macchina" to="11" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="403">
+<sentences>
+<sentence id="403">
+<text>Macchina fotografica digitale per catturare momenti unici con una qualitá eccellente , veramente soddisfatto</text>
+<Opinions>
+<Opinion category="General" from="66" polarity="Positive" sentiment="eccellente" target="qualitá" to="73" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="191">
+<sentences>
+<sentence id="191">
+<text>Macchina fotografica stupenda , ho studiato tanto le caratteristiche delle varie aziende , ma devo dire che la qualità delle foto è ottima , anche con poca luce .</text>
+<Opinions>
+<Opinion category="General" from="0" polarity="Positive" sentiment="stupenda" target="Macchina fotografica" to="20" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="446">
+<sentences>
+<sentence id="446">
+<text>Buona macchina , durata della batteria buona .</text>
+<Opinions>
+<Opinion category="General" from="6" polarity="Positive" sentiment="Buona" target="macchina" to="14" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="278">
+<sentences>
+<sentence id="278">
+<text>Una macchina fotografica davvero sopra le aspettative che si credono possibili da una compatta .</text>
+<Opinions>
+<Opinion category="General" from="4" polarity="Positive" sentiment="sopra le aspettative" target="macchina fotografica" to="24" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="479">
+<sentences>
+<sentence id="479">
+<text>Non sono gradevolmente colpito da questa macchinetta , che dovrebbe essere l'inizio dell ' uscita di campo delle classiche reflex , magari di medio / basso valore .</text>
+<Opinions>
+<Opinion category="General" from="41" polarity="Negative" sentiment="Non sono gradevolmente colpito" target="macchinetta" to="52" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="87">
+<sentences>
+<sentence id="87">
+<text>Macchinetta d tutto rispetto che ho acquistata ricondizionata Amazon .</text>
+<Opinions>
+<Opinion category="General" from="0" polarity="Positive" sentiment="tutto rispetto" target="Macchinetta" to="11" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="560">
+<sentences>
+<sentence id="560">
+<text>Ottimo prodotto .</text>
+<Opinions>
+<Opinion category="General" from="7" polarity="Positive" sentiment="Ottimo" target="prodotto" to="15" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="577">
+<sentences>
+<sentence id="577">
+<text>Questa macchina nel kit 6000Ycompresa di teleobiettivo è una potenza .</text>
+<Opinions>
+<Opinion category="General" from="7" polarity="Positive" sentiment="potenza" target="macchina" to="15" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="80">
+<sentences>
+<sentence id="80">
+<text>Questa HX60 mi ha sorpreso , ma prima parto dall ' unica nota negativa che ho trovato .</text>
+<Opinions>
+<Opinion category="General" from="7" polarity="Positive" sentiment="sorpreso" target="HX60" to="11" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="644">
+<sentences>
+<sentence id="644">
+<text>che dire con le poche volte che la utilizzo e un niente a che vedere dall ' anteriore compatta , nitidità sopra le righe estetica ed eleganza e tutte le possibilità per approfondire sulla fotografia , consiglio e consigliata per chi ama la paesaggistica econ buoni risultati</text>
+<Opinions>
+<Opinion category="General" from="213" polarity="Positive" sentiment="" target="consigliata" to="224" type="implicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="589">
+<sentences>
+<sentence id="589">
+<text>Nonostante l'apparecchio sia un po ' datato svolge molto egregiamente le sue funzioni di macchina fotografica leggera e facile da trasportare in ogni luogo .</text>
+<Opinions>
+<Opinion category="General" from="77" polarity="Positive" sentiment="egregiamente" target="funzioni di macchina fotografica" to="109" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="224">
+<sentences>
+<sentence id="224">
+<text>La fotocamera l'ho provata ancora poco , ma anche se non sono un grande esperto si capisce subito che è davvero ottima .</text>
+<Opinions>
+<Opinion category="General" from="3" polarity="Positive" sentiment="ottima" target="fotocamera" to="13" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="339">
+<sentences>
+<sentence id="339">
+<text>La fotocamera è veramente ottima , scatta veloce , buona anche con poca luce .</text>
+<Opinions>
+<Opinion category="General" from="3" polarity="Positive" sentiment="veramente ottima" target="fotocamera" to="13" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="405">
+<sentences>
+<sentence id="405">
+<text>Prodotto di ottima qualità con un prezzo davvero conveniente . .</text>
+<Opinions>
+<Opinion category="General" from="19" polarity="Positive" sentiment="ottima" target="qualità" to="26" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="26">
+<sentences>
+<sentence id="26">
+<text>Veramente soddisfatto .</text>
+<Opinions>
+<Opinion category="General" from="0" polarity="" sentiment="" target="Veramente soddisfatto" to="21" type="implicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="717">
+<sentences>
+<sentence id="717">
+<text>Per il momento si , la trovo davvero molto buona .</text>
+<Opinions>
+<Opinion category="General" from="20" polarity="Positive" sentiment="molto buona" target="la" to="22" type="anaphora" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="3">
+<sentences>
+<sentence id="3">
+<text>Adattissima per chi vuole imparare a gestire l'esposizione senza impegnarsi con una reflex ingombrante nelle misure e nel prezzo .</text>
+<Opinions>
+<Opinion category="General" from="0" polarity="" sentiment="" target="Adattissima" to="11" type="implicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="275">
+<sentences>
+<sentence id="275">
+<text>Buona macchina fotografica .</text>
+<Opinions>
+<Opinion category="General" from="6" polarity="Positive" sentiment="Buona" target="macchina fotografica" to="26" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="192">
+<sentences>
+<sentence id="192">
+<text>Funziona molto bene tutto quello che non è troppo difficile usare , ma la macchina è assai complicata e il software inavvicinabile da chi non abbia una laurea in informatica .</text>
+<Opinions>
+<Opinion category="General" from="74" polarity="Negative" sentiment="complicata" target="macchina" to="82" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="618">
+<sentences>
+<sentence id="618">
+<text>Praticità , messa a fuoco e sensibilità invidiabili .</text>
+<Opinions>
+<Opinion category="General" from="0" polarity="Positive" sentiment="invidiabili" target="Praticità" to="9" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="465">
+<sentences>
+<sentence id="465">
+<text>La fotocamera mi piace molto .</text>
+<Opinions>
+<Opinion category="General" from="3" polarity="Positive" sentiment="piace molto" target="fotocamera" to="13" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="245">
+<sentences>
+<sentence id="245">
+<text>Foto buone con luce solare , meno con poca luce , intuitiva , buon rapporto qualità prezzo</text>
+<Opinions>
+<Opinion category="General" from="50" polarity="Positive" sentiment="" target="intuitiva" to="59" type="implicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="678">
+<sentences>
+<sentence id="678">
+<text>Ottima fotocamera compatta , certo con scarsa luce le riprese è preferibile non farle , ma non si può pretendere ...</text>
+<Opinions>
+<Opinion category="General" from="7" polarity="Positive" sentiment="Ottima" target="fotocamera compatta" to="26" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="597">
+<sentences>
+<sentence id="597">
+<text>Nonostante sia un prodotto concepito nel 2014 rimane una macchina fotografica attualissima .</text>
+<Opinions>
+<Opinion category="General" from="57" polarity="Positive" sentiment="attualissima" target="macchina fotografica" to="77" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="289">
+<sentences>
+<sentence id="289">
+<text>bellissima macchina , molto funzionale , ha molte modalità di uso .</text>
+<Opinions>
+<Opinion category="General" from="11" polarity="Positive" sentiment="bellissima" target="macchina" to="19" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="102">
+<sentences>
+<sentence id="102">
+<text>Bella macchina fotografica , Piccola ma con ampio zoom e molte funzioni .</text>
+<Opinions>
+<Opinion category="General" from="6" polarity="Positive" sentiment="Bella" target="macchina fotografica" to="26" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="703">
+<sentences>
+<sentence id="703">
+<text>Ottimo prodotto , ottime le rifiniture , ottima la qualità delle immagini ...</text>
+<Opinions>
+<Opinion category="General" from="7" polarity="Positive" sentiment="Ottimo" target="prodotto" to="15" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="162">
+<sentences>
+<sentence id="162">
+<text>A questo stesso fine si apprezza molto anche il raddrizzamento automatico degli scatti verticali .</text>
+<Opinions>
+<Opinion category="Imaging" from="80" polarity="Positive" sentiment="apprezza molto" target="scatti verticali" to="96" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="749">
+<sentences>
+<sentence id="749">
+<text>I video sono belli e fluidi e le foto nitide e buone fino a 6400iso .</text>
+<Opinions>
+<Opinion category="Imaging" from="33" polarity="Positive" sentiment="nitide e buone" target="foto" to="37" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="10">
+<sentences>
+<sentence id="10">
+<text>Ho fatto solo 300 foto , in notturna e con una sola batteria , senza flash , e sono venute tutte splendide , definite , anche a prova di ingrandimento , con una luminosità incredibile e una messa a fuoco mai vista .</text>
+<Opinions>
+<Opinion category="Imaging" from="18" polarity="Positive" sentiment="splendide, definite, anche a prova di ingrandimento" target="foto" to="22" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="6">
+<sentences>
+<sentence id="6">
+<text>Filtri ed effetti artistici originali e un buon obiettivo .</text>
+<Opinions>
+<Opinion category="Imaging" from="10" polarity="Positive" sentiment="originali" target="effetti artistici" to="27" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="273">
+<sentences>
+<sentence id="273">
+<text>Le foto sono nitide e i colori belli accesi .</text>
+<Opinions>
+<Opinion category="Imaging" from="3" polarity="Positive" sentiment="nitide" target="foto" to="7" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="293">
+<sentences>
+<sentence id="293">
+<text>Fotocamra compatto di ottima fattura e qualita ' per la fascia di apprtenenza , l'ho provata in condizioni quasi di buio e basta una piccola sorgente di luce che come per miracolo ne viene una foto , rumore della foto accettabile , colori fedeli e molto luminosi , mi ripropongo di utilizzarla ancora in condizione piu ' estreme , anche il macro dopo i primi momenti di adattamento si dimostro ottimo , in conclusione un ottimo prodotto per la fascia di appartenenza .</text>
+<Opinions>
+<Opinion category="Imaging" from="232" polarity="Positive" sentiment="fedeli e molto luminosi" target="colori" to="238" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="686">
+<sentences>
+<sentence id="686">
+<text>Le foto sono belle ma non eccezionali , con scarsa luce la resa non è buona .</text>
+<Opinions>
+<Opinion category="Imaging" from="3" polarity="Positive" sentiment="belle ma non eccezionali" target="foto" to="7" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="260">
+<sentences>
+<sentence id="260">
+<text>Foto di qualità .</text>
+<Opinions>
+<Opinion category="Imaging" from="0" polarity="Positive" sentiment="qualità" target="Foto" to="4" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="590">
+<sentences>
+<sentence id="590">
+<text>Fa ottime foto soprattutto in RAW , ma anche in JPG .</text>
+<Opinions>
+<Opinion category="Imaging" from="10" polarity="Positive" sentiment="ottime" target="foto" to="14" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="298">
+<sentences>
+<sentence id="298">
+<text>Bella macchinetta che produce delle belle foto praticamente in tutte le occasioni .</text>
+<Opinions>
+<Opinion category="Imaging" from="42" polarity="Positive" sentiment="belle" target="foto" to="46" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="710">
+<sentences>
+<sentence id="710">
+<text>Le foto sono molto nitide , la messa fuoco molto veloce , lo zoom strepitoso e nitido .</text>
+<Opinions>
+<Opinion category="Imaging" from="3" polarity="Positive" sentiment="molto nitide" target="foto" to="7" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="243">
+<sentences>
+<sentence id="243">
+<text>Compatta facile da usare diverse impostazioni e qualità immagini e video</text>
+<Opinions>
+<Opinion category="Imaging" from="56" polarity="Positive" sentiment="qualità" target="immagini" to="64" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="156">
+<sentences>
+<sentence id="156">
+<text>Materiale solido , uno zoom 30x che non dispiace e una qualità fotografica tra le migliori .</text>
+<Opinions>
+<Opinion category="Imaging" from="55" polarity="Positive" sentiment="migliori" target="qualità fotografica" to="74" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="692">
+<sentences>
+<sentence id="692">
+<text>Su foto in esterni direi che ci siamo ma la luminosità deve essere molta , poichè come scende un po ' inizia il rumore .</text>
+<Opinions>
+<Opinion category="Imaging" from="3" polarity="Negative" sentiment="rumore" target="foto" to="7" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="95">
+<sentences>
+<sentence id="95">
+<text>Ottima fotocamera zoom per il prezzo proposto ( io l’ho pagata circa € 202,00 ) la qualità delle foto è buona ma non eccellente ( non sono un esperto di fotografia ) , comunque consigliata , in allegato 2 foto zoom .</text>
+<Opinions>
+<Opinion category="Imaging" from="83" polarity="Neutral" sentiment="buona ma non eccellente" target="qualità delle foto" to="101" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="302">
+<sentences>
+<sentence id="302">
+<text>ovviamente la risoluzione delle foto è soddisfacente , il prezzo abbastanza conveniente , buono lo zoom , discreta la robustezza dei materiali , qualche perplessità sulle foto senza flash e in condizioni di luce non ottimali</text>
+<Opinions>
+<Opinion category="Imaging" from="14" polarity="Positive" sentiment="soddisfacente" target="risoluzione delle foto" to="36" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="491">
+<sentences>
+<sentence id="491">
+<text>Le riprese sono davvero eccezzionali .</text>
+<Opinions>
+<Opinion category="Imaging" from="3" polarity="Positive" sentiment="eccezzionali" target="riprese" to="10" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="595">
+<sentences>
+<sentence id="595">
+<text>... e credo che possa anche bastare , di certo l'offerta su fotocamere è così vasta , articolata e variegata che spiegare perché scegliere una o un ' altra è pressoché impossibile , detto questo la mia esperienza è più che positiva , la batteria dura molto , con una carica completa ho fatto in un giorno più di 500 foto ed una decina di video ed ha retto più che bene , la qualità fotografica è eccelsa , le modalità di scatto anche , di sicuro non è una macchina da neofiti , bisogna capirne un minimo sia di foto che di tecnologia generale , perché il funzionamento non è dei più facili , ma vale ogni centesimo speso e funziona alla perfezione .</text>
+<Opinions>
+<Opinion category="Imaging" from="374" polarity="Positive" sentiment="eccelsa" target="qualità fotografica" to="393" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="601">
+<sentences>
+<sentence id="601">
+<text>Le foto sembrano avere colori fedeli e ben definite .</text>
+<Opinions>
+<Opinion category="Imaging" from="3" polarity="Positive" sentiment="colori fedeli e ben definite" target="foto" to="7" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="678">
+<sentences>
+<sentence id="678">
+<text>Ottima fotocamera compatta , certo con scarsa luce le riprese è preferibile non farle , ma non si può pretendere ...</text>
+<Opinions>
+<Opinion category="Imaging" from="54" polarity="Negative" sentiment="preferibile non farle" target="riprese" to="61" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="739">
+<sentences>
+<sentence id="739">
+<text>La lente kit16 -50 e di discreta fattura anche se la ghiera mf / zoom ha un po di gioco molta distorsione a 16 mm , la qualita cromatica e discreta per una lente kit ma il pregio maggiore e che trasforma questa fotocamera in una compatta con qualita reflex ...</text>
+<Opinions>
+<Opinion category="Imaging" from="119" polarity="Positive" sentiment="discreta" target="qualita cromatica" to="136" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="470">
+<sentences>
+<sentence id="470">
+<text>Belle foto . !!</text>
+<Opinions>
+<Opinion category="Imaging" from="6" polarity="Positive" sentiment="belle" target="foto" to="10" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="737">
+<sentences>
+<sentence id="737">
+<text>Resa ad alti iso molto buona senza perdita di definizione fino a 3200 ma le immagini restano di alta qualita anche a 6400 ...</text>
+<Opinions>
+<Opinion category="Imaging" from="76" polarity="Positive" sentiment="alta qualita" target="immagini" to="84" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="394">
+<sentences>
+<sentence id="394">
+<text>La macchinetta fa ottime foto e si bilancia in automatico le impostazioni per scattare la foto nella migliore qualità , apprezzo anche l'estensivo meno di opzioni e la possibilita di trasferire foto ad un cellulare senza bisogno di staccare l'sd .</text>
+<Opinions>
+<Opinion category="Imaging" from="25" polarity="Positive" sentiment="ottime" target="foto" to="29" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="375">
+<sentences>
+<sentence id="375">
+<text>Fa delle foto stupende in presenza di luce naturale , però le foto di notte o con poca luce non sono top .</text>
+<Opinions>
+<Opinion category="Imaging" from="9" polarity="Positive" sentiment="stupende" target="foto" to="13" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="429">
+<sentences>
+<sentence id="429">
+<text>Foto splendide sia di giorno che in condizioni un pó + critiche .</text>
+<Opinions>
+<Opinion category="Imaging" from="0" polarity="Positive" sentiment="splendide" target="Foto" to="4" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="50">
+<sentences>
+<sentence id="50">
+<text>Con focali basse , ve la potete anche cavare ma appena spingete con lo zoom diventa difficilissimo inquadrare quello che volete , specialmente se questo soggetto è in movimento .</text>
+<Opinions>
+<Opinion category="Zoom" from="71" polarity="Negative" sentiment="difficilissimo inquadrare" target="zoom" to="75" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="188">
+<sentences>
+<sentence id="188">
+<text>Entra in una tasca dei pantaloni , lo zoom è molto potente .</text>
+<Opinions>
+<Opinion category="Zoom" from="38" polarity="Positive" sentiment="molto potente" target="zoom" to="42" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="196">
+<sentences>
+<sentence id="196">
+<text>Lo zoom è eccessivo ( difficilmente verrà utilizzato fino a 30x ) ; installato su una fotocamera compatta , inoltre , non è completamente efficace poiché si creano dei rumori di fondo che ' disturbano ' la risoluzione della foto così scattata .</text>
+<Opinions>
+<Opinion category="Zoom" from="3" polarity="Positive" sentiment="eccessivo" target="zoom" to="7" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="115">
+<sentences>
+<sentence id="115">
+<text>Foto notturne ed ingrandimenti fanno notare delle pecche in fatto di risoluzione .</text>
+<Opinions>
+<Opinion category="Zoom" from="17" polarity="Negative" sentiment="pecche in fatto di risoluzione" target="ingrandimenti" to="30" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="382">
+<sentences>
+<sentence id="382">
+<text>Ha un ottimo zoom 30x .</text>
+<Opinions>
+<Opinion category="Zoom" from="13" polarity="Positive" sentiment="ottimo" target="zoom 30x" to="21" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="102">
+<sentences>
+<sentence id="102">
+<text>Bella macchina fotografica , Piccola ma con ampio zoom e molte funzioni .</text>
+<Opinions>
+<Opinion category="Zoom" from="50" polarity="Positive" sentiment="ampio" target="zoom" to="54" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="654">
+<sentences>
+<sentence id="654">
+<text>Ha un ' ottima risoluzione e uno zoom particolarmente potente .</text>
+<Opinions>
+<Opinion category="Zoom" from="33" polarity="Positive" sentiment="potente" target="zoom" to="37" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="646">
+<sentences>
+<sentence id="646">
+<text>La cosa che mi esalta di più è lo zoom 30x ottico ( motivo per cui l'ho scelta ) .</text>
+<Opinions>
+<Opinion category="Zoom" from="34" polarity="Positive" sentiment="esalta" target="zoom 30x ottico" to="49" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="279">
+<sentences>
+<sentence id="279">
+<text>Zoom potente e veramente preciso .</text>
+<Opinions>
+<Opinion category="Zoom" from="0" polarity="Positive" sentiment="potente e veramente preciso" target="Zoom" to="4" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="392">
+<sentences>
+<sentence id="392">
+<text>ideale da viaggio , occupa poco spazio ma offre grandi prestazioni , grazie al suo zoom eccezionale non avrete difficoltà ad immortalare ogni dettaglio dei vostri momenti magici</text>
+<Opinions>
+<Opinion category="Zoom" from="83" polarity="Positive" sentiment="eccezionale" target="zoom" to="87" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="274">
+<sentences>
+<sentence id="274">
+<text>Mi interessava soprattutto lo zoom in quanto le foto normali le faccio con lo smartphone , mi sono subito trovato bene , per momento in automatico , anche il macro si seleziona da solo , lo zoom é spettacolare , l'invio della foto via Wifi allo smartphone , ora con calma devo scoprire tutte le opzioni .</text>
+<Opinions>
+<Opinion category="Zoom" from="30" polarity="Positive" sentiment="spettacolare" target="zoom" to="34" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="356">
+<sentences>
+<sentence id="356">
+<text>Fotocamera compatta con u o zoom molto potente .</text>
+<Opinions>
+<Opinion category="Zoom" from="28" polarity="Positive" sentiment="molto potente" target="zoom" to="32" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="596">
+<sentences>
+<sentence id="596">
+<text>la uso da qualche mese ormai , mi ci sto trovando benissimo , macchina leggera e funzionale , se devo trovare delle pecche posso dire il menù dispersivo tipico sony , no 4k , no timelapse , per il resto ottima macchina</text>
+<Opinions>
+<Opinion category="Video" from="178" polarity="Negative" sentiment="no" target="timelapse" to="187" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="229">
+<sentences>
+<sentence id="229">
+<text>Sono molto felice di aver acquistato questa fotocamera , ê leggera e la qualità video e foto molto buona .</text>
+<Opinions>
+<Opinion category="Video" from="72" polarity="Positive" sentiment="molto buona" target="qualità video" to="85" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="59">
+<sentences>
+<sentence id="59">
+<text>Ho utilizzato la macchina in un momento speciale e pur essendo la prima volta che adoperavo il modello mi sono trovato subito a mio agio ed ho potuto fare foto e filmati di grande qualità .</text>
+<Opinions>
+<Opinion category="Video" from="162" polarity="Positive" sentiment="grande qualità" target="filmati" to="169" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="548">
+<sentences>
+<sentence id="548">
+<text>Sono rimasto molto soddisfatto anche per la parte video ( funzioni per una reflex impensabili ) , unico neo : il pulsante per i video è in una posizione infelice .</text>
+<Opinions>
+<Opinion category="Video" from="50" polarity="Positive" sentiment="molto soddisfatto" target="video" to="55" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="86">
+<sentences>
+<sentence id="86">
+<text>Video molto validi con stabilizzazione precisa che fa il suo dovere .</text>
+<Opinions>
+<Opinion category="Video" from="0" polarity="Positive" sentiment="molto validi" target="Video" to="5" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="629">
+<sentences>
+<sentence id="629">
+<text>Sensore e processore fantastici per la cifra spesa ; amazon perfetto due.giorni la consegna scatola ben protetta e nessun problema riscontrato</text>
+<Opinions>
+<Opinion category="Other" from="92" polarity="Positive" sentiment="ben.protetta" target="scatola" to="99" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="731">
+<sentences>
+<sentence id="731">
+<text>Performance da reflex ammiraglia al prezzo di una serie medio - bassa , in un corpo macchina solido e compatto .</text>
+<Opinions>
+<Opinion category="Other" from="78" polarity="Positive" sentiment="solido e compatto" target="corpo macchina" to="92" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="139">
+<sentences>
+<sentence id="139">
+<text>Sono molto soddisfatto dell ' acquisto .</text>
+<Opinions>
+<Opinion category="Other" from="30" polarity="Positive" sentiment="soddisfatto" target="acquisto" to="38" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="216">
+<sentences>
+<sentence id="216">
+<text>Veloce e puntuale anche la consegna che ha perfettamente rispettato i tempi .</text>
+<Opinions>
+<Opinion category="Other" from="27" polarity="Positive" sentiment="Veloce e puntuale" target="consegna" to="35" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="629">
+<sentences>
+<sentence id="629">
+<text>Sensore e processore fantastici per la cifra spesa ; amazon perfetto due.giorni la consegna scatola ben protetta e nessun problema riscontrato</text>
+<Opinions>
+<Opinion category="Other" from="53" polarity="Positive" sentiment="perfetto" target="amazon" to="59" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="540">
+<sentences>
+<sentence id="540">
+<text>Soddisfacente la fornitura degli accessori principali ( batteria , caricabatteria , cinghia di trasporto ) .</text>
+<Opinions>
+<Opinion category="Other" from="33" polarity="Positive" sentiment="Soddisfacente" target="accessori" to="42" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="616">
+<sentences>
+<sentence id="616">
+<text>Mi reputo pienamente soddisfatto dell ' acquisto .</text>
+<Opinions>
+<Opinion category="Other" from="40" polarity="Positive" sentiment="pienamente soddisfatto" target="acquisto" to="48" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="301">
+<sentences>
+<sentence id="301">
+<text>In breve sono completamente soddisfatto dell ' acquisto .</text>
+<Opinions>
+<Opinion category="Other" from="47" polarity="Positive" sentiment="completamente soddisfatto" target="acquisto" to="55" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="570">
+<sentences>
+<sentence id="570">
+<text>L'unica pecca , sto avendo difficoltà a collegarla in wifi ad alcuni apparecchi , per esempio al mio windows phone , per carenza di app adeguate .</text>
+<Opinions>
+<Opinion category="Other" from="54" polarity="Negative" sentiment="difficoltà" target="wifi" to="58" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="604">
+<sentences>
+<sentence id="604">
+<text>Macchina fantastica , un sacco di funzioni e caratteristiche che trovi su macchine di livelli più alti .</text>
+<Opinions>
+<Opinion category="Other" from="34" polarity="Positive" sentiment="sacco" target="funzioni" to="42" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="289">
+<sentences>
+<sentence id="289">
+<text>bellissima macchina , molto funzionale , ha molte modalità di uso .</text>
+<Opinions>
+<Opinion category="Other" from="28" polarity="Positive" sentiment="molto" target="funzionale" to="38" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="627">
+<sentences>
+<sentence id="627">
+<text>Perfette le condizioni del prodotto ed i tempi di spedizione .</text>
+<Opinions>
+<Opinion category="Other" from="41" polarity="Positive" sentiment="Perfette" target="tempi di spedizione" to="60" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="604">
+<sentences>
+<sentence id="604">
+<text>Macchina fantastica , un sacco di funzioni e caratteristiche che trovi su macchine di livelli più alti .</text>
+<Opinions>
+<Opinion category="Other" from="45" polarity="Positive" sentiment="sacco" target="caratteristiche" to="60" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="89">
+<sentences>
+<sentence id="89">
+<text>Per il resto ( confezione e accessori è ok ) Menù solo inglese ma non è un problema i comandi sono uguali in tutte le macchine .</text>
+<Opinions>
+<Opinion category="Other" from="45" polarity="Neutral" sentiment="non è un problema" target="Menù" to="49" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="344">
+<sentences>
+<sentence id="344">
+<text>Ottimo prodotto come da aspettative.Consegna celere come sempre</text>
+<Opinions>
+<Opinion category="Other" from="36" polarity="Positive" sentiment="celere" target="Consegna" to="44" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="736">
+<sentences>
+<sentence id="736">
+<text>Personalizzazione pulsanti e menu soddisfacente ...</text>
+<Opinions>
+<Opinion category="Other" from="29" polarity="Positive" sentiment="soddisfacente" target="menu" to="33" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="125">
+<sentences>
+<sentence id="125">
+<text>Devo ancora capire bene come funziona , ma per adesso mi sta dando grandi risultati , è arrivata subito e imballata perfettamente .</text>
+<Opinions>
+<Opinion category="Other" from="88" polarity="Positive" sentiment="subito" target="arrivata subito" to="103" type="implicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="765">
+<sentences>
+<sentence id="765">
+<text>Altri punti di forza il wifi , che permette di scaricare in un attimo le foto sullo smartphone , lo zoom e la possibilità di scaricare applicazioni per ampliare ulteriormente le funzioni della fotocamera .</text>
+<Opinions>
+<Opinion category="Other" from="24" polarity="Positive" sentiment="punti di forza" target="wifi" to="28" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="578">
+<sentences>
+<sentence id="578">
+<text>Ho acquistato tempo addietro il corpo Sony A6000 , è un prodotto eccellente nelle sue funzionalità , velocità , dotata di moltissime opzioni di regolazione e controllo , piuttosto solida al tatto , e molto leggera , e soprattutto molto piccola , riuscendo a contenere un volume ridotto praticamente tutto : flash interno , slitta flash e mirino digitale .</text>
+<Opinions>
+<Opinion category="Other" from="170" polarity="Positive" sentiment="" target="piuttosto solida al tatto" to="195" type="implicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="401">
+<sentences>
+<sentence id="401">
+<text>L'unico difetto è che il menù ed i tasti non sono di facile comprensione per chi non se ne intende molto di fotografia ( proprio come i miei genitori ) .</text>
+<Opinions>
+<Opinion category="Other" from="35" polarity="Negative" sentiment="non sono di facile comprensione" target="tasti" to="40" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="264">
+<sentences>
+<sentence id="264">
+<text>Da principiante posso dire che fà ottime foto , ha un ' infinità di funzioni anche manuali per i più esperti .</text>
+<Opinions>
+<Opinion category="Other" from="68" polarity="Positive" sentiment="infinità" target="funzioni" to="76" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="493">
+<sentences>
+<sentence id="493">
+<text>Il menu è un tantinello ' tedioso ' ( come in tutte le Sony , del resto ) ed alcune funzioni secondo me obbligatorie oramai ( su una camera di livello anche medio - basso ) sono altresì a pagamento !</text>
+<Opinions>
+<Opinion category="Other" from="3" polarity="Negative" sentiment="tantinello 'tedioso'" target="menu" to="7" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="102">
+<sentences>
+<sentence id="102">
+<text>Bella macchina fotografica , Piccola ma con ampio zoom e molte funzioni .</text>
+<Opinions>
+<Opinion category="Other" from="63" polarity="Positive" sentiment="molte" target="funzioni" to="71" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="332">
+<sentences>
+<sentence id="332">
+<text>Consegna velocissima , ho deciso di acquistare una macchina compatta per portarla sempre con me al contrario delle reflex o bridge .</text>
+<Opinions>
+<Opinion category="Other" from="0" polarity="Positive" sentiment="velocissima" target="Consegna" to="8" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="223">
+<sentences>
+<sentence id="223">
+<text>Il prodotto è arrivato con due giorni di anticipo rispetto alla data di consegna , buono anche l'imballaggio , grande Amazon !</text>
+<Opinions>
+<Opinion category="Other" from="97" polarity="Positive" sentiment="buono" target="imballaggio" to="108" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="243">
+<sentences>
+<sentence id="243">
+<text>Compatta facile da usare diverse impostazioni e qualità immagini e video</text>
+<Opinions>
+<Opinion category="Other" from="19" polarity="Positive" sentiment="facile" target="usare" to="24" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="157">
+<sentences>
+<sentence id="157">
+<text>Spedizione ok</text>
+<Opinions>
+<Opinion category="Other" from="0" polarity="Neutral" sentiment="ok" target="Spedizione" to="10" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="121">
+<sentences>
+<sentence id="121">
+<text>La logistica Amazon è come al solito da 6 stelle .</text>
+<Opinions>
+<Opinion category="Other" from="3" polarity="Positive" sentiment="6 stelle" target="logistica Amazon" to="19" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="268">
+<sentences>
+<sentence id="268">
+<text>Acquistata in offerta è ottima per comodità e funzioni .</text>
+<Opinions>
+<Opinion category="Other" from="46" polarity="Positive" sentiment="ottima" target="funzioni" to="54" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="480">
+<sentences>
+<sentence id="480">
+<text>E ' sopravvalutata , ecco ... io me la sto portando dietro in tutte le occasioni , ergonomicamente è una magia , ma fine delle cose belle .</text>
+<Opinions>
+<Opinion category="Other" from="83" polarity="Positive" sentiment="magia" target="ergonomicamente" to="98" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="125">
+<sentences>
+<sentence id="125">
+<text>Devo ancora capire bene come funziona , ma per adesso mi sta dando grandi risultati , è arrivata subito e imballata perfettamente .</text>
+<Opinions>
+<Opinion category="Other" from="106" polarity="Positive" sentiment="perfettamente" target="imballata" to="115" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="697">
+<sentences>
+<sentence id="697">
+<text>Peccato perchè aveva tante belle funzioni .</text>
+<Opinions>
+<Opinion category="Other" from="33" polarity="Positive" sentiment="belle" target="funzioni" to="41" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="542">
+<sentences>
+<sentence id="542">
+<text>Vorrei anche trovare il tradizionale selettore frontale , vicino al pulsante di scatto : l'estrema miniaturizzazione va a scapito di una migliore ergonomia .</text>
+<Opinions>
+<Opinion category="Other" from="37" polarity="Negative" sentiment="estrema miniaturizzazione" target="selettore frontale" to="55" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="212">
+<sentences>
+<sentence id="212">
+<text>Accessibilità dei comandi nella parte destra a portata di dito e discretamente facili da usare .</text>
+<Opinions>
+<Opinion category="Other" from="0" polarity="Positive" sentiment="facili da usare" target="Accessibilità dei comandi" to="25" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="679">
+<sentences>
+<sentence id="679">
+<text>La qualità delle foto è ottima , sono soddisfatta dell ' acquisto .</text>
+<Opinions>
+<Opinion category="Other" from="57" polarity="Positive" sentiment="soddisfatta" target="acquisto" to="65" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="568">
+<sentences>
+<sentence id="568">
+<text>Compatta e ergonomica , grande risoluzione , messa a fuoco velocissima , pacchetto completo , facilità e velocità d'uso anche in modalità manuale e completa gamma di filtri ( ottima e semplice la guida sulla macchina ) .</text>
+<Opinions>
+<Opinion category="Other" from="196" polarity="Positive" sentiment="ottima e semplice" target="guida sulla macchina" to="216" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="650">
+<sentences>
+<sentence id="650">
+<text>Consegna perfetta e nei tempi giusti .</text>
+<Opinions>
+<Opinion category="Other" from="0" polarity="Positive" sentiment="perfetta" target="Consegna" to="8" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="377">
+<sentences>
+<sentence id="377">
+<text>Nel complesso sono soddisfatto dell ' acquisto .</text>
+<Opinions>
+<Opinion category="Other" from="38" polarity="Positive" sentiment="soddisfatto" target="acquisto" to="46" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="502">
+<sentences>
+<sentence id="502">
+<text>La transazione è stata molto veloce e precisa .</text>
+<Opinions>
+<Opinion category="Other" from="3" polarity="Positive" sentiment="molto veloce e precisa" target="transazione" to="14" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="97">
+<sentences>
+<sentence id="97">
+<text>Buona costruzione e qualità dei materiali .</text>
+<Opinions>
+<Opinion category="Other" from="20" polarity="Positive" sentiment="Buona" target="qualità dei materiali" to="41" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="703">
+<sentences>
+<sentence id="703">
+<text>Ottimo prodotto , ottime le rifiniture , ottima la qualità delle immagini ...</text>
+<Opinions>
+<Opinion category="Other" from="28" polarity="Positive" sentiment="ottime" target="rifiniture" to="38" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="589">
+<sentences>
+<sentence id="589">
+<text>Nonostante l'apparecchio sia un po ' datato svolge molto egregiamente le sue funzioni di macchina fotografica leggera e facile da trasportare in ogni luogo .</text>
+<Opinions>
+<Opinion category="Dimension" from="110" polarity="Positive" sentiment="" target="leggera" to="117" type="implicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="578">
+<sentences>
+<sentence id="578">
+<text>Ho acquistato tempo addietro il corpo Sony A6000 , è un prodotto eccellente nelle sue funzionalità , velocità , dotata di moltissime opzioni di regolazione e controllo , piuttosto solida al tatto , e molto leggera , e soprattutto molto piccola , riuscendo a contenere un volume ridotto praticamente tutto : flash interno , slitta flash e mirino digitale .</text>
+<Opinions>
+<Opinion category="Dimension" from="230" polarity="Positive" sentiment="" target="molto piccola" to="243" type="implicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="605">
+<sentences>
+<sentence id="605">
+<text>Mirino elettronico di ottima fattura e dimensioni ideali per portarla in giro ad ogni occasione .</text>
+<Opinions>
+<Opinion category="Dimension" from="39" polarity="Positive" sentiment="ideali per portarla in giro" target="dimensioni" to="49" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="39">
+<sentences>
+<sentence id="39">
+<text>E ' stato un ottimo acquisto per le caratteristiche tecniche e comodissima da portare bloccata alla cintura .</text>
+<Opinions>
+<Opinion category="Dimension" from="78" polarity="Positive" sentiment="comodissima" target="portare" to="85" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="495">
+<sentences>
+<sentence id="495">
+<text>Descrivere questa macchina e come descrivere , un opera d'arte in quattro parole credo che sony abbia fatto un ottimo lavoro sia nella costruzione nella leggerezza e Mella sua corposità .</text>
+<Opinions>
+<Opinion category="Dimension" from="135" polarity="Positive" sentiment="leggerezza" target="costruzione" to="146" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="534">
+<sentences>
+<sentence id="534">
+<text>Dimensioni , peso , qualità costruttiva , menu semplice ed efficace , regolazioni in manuale molto veloci e ben raggiungibili con il pollice , immagini di elevatissima qualità</text>
+<Opinions>
+<Opinion category="Dimension" from="13" polarity="Positive" sentiment="semplice ed efficace" target="peso" to="17" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="641">
+<sentences>
+<sentence id="641">
+<text>Ottima fotocamera compatta che permette di fare degli scatti di ogni tipo grazie al suo zoom ottico , la qualità costruttiva Sony si sente quando la si prende in mano , forse è un po ' pesantuccia ma questo aiuta a farla sembrare ancora più robusta .</text>
+<Opinions>
+<Opinion category="Dimension" from="7" polarity="Positive" sentiment="Ottima" target="fotocamera compatta" to="26" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="637">
+<sentences>
+<sentence id="637">
+<text>Leggera e compatta , con impugnatura ergonomica e schermo anti riflesso , si conferma adatta anche per viaggi ed escursioni !</text>
+<Opinions>
+<Opinion category="Dimension" from="0" polarity="Positive" sentiment="" target="Leggera" to="7" type="implicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="2">
+<sentences>
+<sentence id="2">
+<text>Ottima per il tempo libero perché piccola e tascabile .</text>
+<Opinions>
+<Opinion category="Dimension" from="44" polarity="Positive" sentiment="Ottima" target="tascabile" to="53" type="implicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="174">
+<sentences>
+<sentence id="174">
+<text>Dimensioni compatte</text>
+<Opinions>
+<Opinion category="Dimension" from="0" polarity="Positive" sentiment="compatte" target="Dimensioni" to="10" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+<Review rid="153">
+<sentences>
+<sentence id="153">
+<text>Certo che Sony , visto che le produce , avrebbe potuto infilare nella confezione una scheda SD , anche minima ...</text>
+<Opinions>
+<Opinion category="Memory" from="85" polarity="Negative" sentiment="potuto infilare nella confezione" target="scheda SD" to="94" type="explicit" />
+</Opinions>
+</sentence>
+</sentences>
+</Review>
+</Reviews>

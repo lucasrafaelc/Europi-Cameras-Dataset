@@ -1,0 +1,1732 @@
+<Reviews>
+    <Review rid="290">
+        <sentences>
+            <sentence id="290">
+                <text>Battery life was fine , but I did buy some extra batteries and needed one when we were out all day .</text>
+                <Opinions>
+                    <Opinion category="Battery" from="0" polarity="Positive" sentiment="fine" target="Battery life" to="12" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="78">
+        <sentences>
+            <sentence id="78">
+                <text>Does n't come with a battery or memory card .</text>
+                <Opinions>
+                    <Opinion category="Battery" from="21" polarity="Negative" sentiment="Doesn't come with" target="battery" to="28" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="26">
+        <sentences>
+            <sentence id="26">
+                <text>It borderline unacceptable .</text>
+                <Opinions>
+                    <Opinion category="Battery" from="0" polarity="Negative" sentiment="borderline unacceptable" target="It" to="2" type="anaphora" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="507">
+        <sentences>
+            <sentence id="507">
+                <text>However , the battery life sucks !</text>
+                <Opinions>
+                    <Opinion category="Battery" from="14" polarity="Negative" sentiment="sucks" target="battery life" to="26" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="508">
+        <sentences>
+            <sentence id="508">
+                <text>Even with the camera in airplane mode , the battery drain is unacceptable .</text>
+                <Opinions>
+                    <Opinion category="Battery" from="44" polarity="Negative" sentiment="unacceptable" target="battery drain" to="57" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="976">
+        <sentences>
+            <sentence id="976">
+                <text>Simple , easy to use , easy to navigate menus , takes great pictures .</text>
+                <Opinions>
+                    <Opinion category="Other" from="17" polarity="Positive" sentiment="easy" target="use" to="20" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="930">
+        <sentences>
+            <sentence id="930">
+                <text>Great camera with lots of features and settings , but these were fairly easy to follow .</text>
+                <Opinions>
+                    <Opinion category="Other" from="39" polarity="Neutral" sentiment="lots" target="settings" to="47" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1116">
+        <sentences>
+            <sentence id="1116">
+                <text>However , after a few weeks of light use one of the dials stopped working on the top .</text>
+                <Opinions>
+                    <Opinion category="Other" from="52" polarity="Negative" sentiment="like" target="dials" to="57" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1064">
+        <sentences>
+            <sentence id="1064">
+                <text>Like this camera and have no issues with Sony customer service .</text>
+                <Opinions>
+                    <Opinion category="Other" from="41" polarity="Positive" sentiment="no issues" target="Sony customer service" to="62" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1022">
+        <sentences>
+            <sentence id="1022">
+                <text>Shipped quickly , Great point and shoot</text>
+                <Opinions>
+                    <Opinion category="Other" from="0" polarity="Positive" sentiment="quickly" target="Shipped" to="7" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="840">
+        <sentences>
+            <sentence id="840">
+                <text>Difficult to use menu and no touch screen .</text>
+                <Opinions>
+                    <Opinion category="Other" from="17" polarity="Negative" sentiment="Difficult" target="menu" to="21" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="561">
+        <sentences>
+            <sentence id="561">
+                <text>it takes Beautiful pictures and great video at 1080p 60 fps , easy to use , a awesome auto - focus , easy menu handling , and ok battery .</text>
+                <Opinions>
+                    <Opinion category="Other" from="70" polarity="Positive" sentiment="easy" target="use" to="73" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="581">
+        <sentences>
+            <sentence id="581">
+                <text>It takes great pictures and is easy to use and learn on .</text>
+                <Opinions>
+                    <Opinion category="Other" from="47" polarity="Positive" sentiment="easy" target="learn" to="52" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="11">
+        <sentences>
+            <sentence id="11">
+                <text>The electronic zoom on the kit lens seems problematic ( first one I got did n't work , but Amazon return went well ) .</text>
+                <Opinions>
+                    <Opinion category="Other" from="91" polarity="Positive" sentiment="went well" target="Amazon return" to="104" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="413">
+        <sentences>
+            <sentence id="413">
+                <text>It 's got some great features such as the WiFi built in , which is my favorite for sharing .</text>
+                <Opinions>
+                    <Opinion category="Other" from="42" polarity="Positive" sentiment="great features" target="WiFi" to="46" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1066">
+        <sentences>
+            <sentence id="1066">
+                <text>There was no issue with warranty .</text>
+                <Opinions>
+                    <Opinion category="Other" from="24" polarity="Positive" sentiment="no issue" target="warranty" to="32" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="106">
+        <sentences>
+            <sentence id="106">
+                <text>All that comes with the camera is a poor quick start guide .</text>
+                <Opinions>
+                    <Opinion category="Other" from="41" polarity="Negative" sentiment="poor" target="quick start guide" to="58" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1013">
+        <sentences>
+            <sentence id="1013">
+                <text>I took some videos and they turned out clear and the sound it picked up was pretty good .</text>
+                <Opinions>
+                    <Opinion category="Other" from="53" polarity="Positive" sentiment="pretty good" target="sound" to="58" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="471">
+        <sentences>
+            <sentence id="471">
+                <text>I am disappointed in the construction of this camera .</text>
+                <Opinions>
+                    <Opinion category="Other" from="25" polarity="Negative" sentiment="disappointed" target="construction of this camera" to="52" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1063">
+        <sentences>
+            <sentence id="1063">
+                <text>It is beyond frustrating .</text>
+                <Opinions>
+                    <Opinion category="Other" from="0" polarity="Negative" sentiment="beyond frustrating" target="It" to="2" type="anaphora" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="98">
+        <sentences>
+            <sentence id="98">
+                <text>This Sony software wants to control your whole system of video and photographs and that is NOT ACCEPTABLE as I use many types of software depending on the photograph type and content .</text>
+                <Opinions>
+                    <Opinion category="Other" from="5" polarity="Negative" sentiment="wants to control your whole system" target="Sony software" to="18" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="74">
+        <sentences>
+            <sentence id="74">
+                <text>Great pictures , easy to use and very easy to take with you .</text>
+                <Opinions>
+                    <Opinion category="Other" from="25" polarity="Positive" sentiment="easy" target="use" to="28" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="120">
+        <sentences>
+            <sentence id="120">
+                <text>Compact system , easy functions , very happy with this camera .</text>
+                <Opinions>
+                    <Opinion category="Other" from="22" polarity="Positive" sentiment="easy" target="functions" to="31" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="115">
+        <sentences>
+            <sentence id="115">
+                <text>You have no audio capabilities except for the built in microphone but it 's usable for upclose personal selfie videos .</text>
+                <Opinions>
+                    <Opinion category="Other" from="12" polarity="Negative" sentiment="have no" target="audio capabilities" to="30" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1164">
+        <sentences>
+            <sentence id="1164">
+                <text>Very happy with the camera , so far the Only complaint is the lack of a mic input jack , but I knew that before purchasing .</text>
+                <Opinions>
+                    <Opinion category="Other" from="72" polarity="Positive" sentiment="the lack" target="mic input jack" to="86" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="683">
+        <sentences>
+            <sentence id="683">
+                <text>I like the fact that the camera has a manual focus and that you can immediately send the pictures to your mobil device ( although you 'll need to download an app to do so ) .</text>
+                <Opinions>
+                    <Opinion category="Exposure" from="38" polarity="Positive" sentiment="like" target="manual focus" to="50" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1238">
+        <sentences>
+            <sentence id="1238">
+                <text>Not as good as my entry level dslr , no manual adjustment for exposure time .</text>
+                <Opinions>
+                    <Opinion category="Exposure" from="62" polarity="Negative" sentiment="no manual adjustment" target="exposure time" to="75" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="274">
+        <sentences>
+            <sentence id="274">
+                <text>My small complaints are with the menu system , the sound quality and the shutter noise .</text>
+                <Opinions>
+                    <Opinion category="Exposure" from="73" polarity="Negative" sentiment="small complaints" target="shutter noise" to="86" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="116">
+        <sentences>
+            <sentence id="116">
+                <text>It 's great to have a camera I can just press record and trust it 's auto focus .</text>
+                <Opinions>
+                    <Opinion category="Exposure" from="69" polarity="Positive" sentiment="trust" target="auto focus" to="79" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="363">
+        <sentences>
+            <sentence id="363">
+                <text>But the EVF remains dead unless you let it cool and then reset ( reboot ) the camera - it would then work until you leave the camera on for too long , then the whole problem starts again .</text>
+                <Opinions>
+                    <Opinion category="Exposure" from="8" polarity="Negative" sentiment="dead" target="EVF" to="11" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="82">
+        <sentences>
+            <sentence id="82">
+                <text>i love it the auto focus its amazing</text>
+                <Opinions>
+                    <Opinion category="Exposure" from="14" polarity="Positive" sentiment="amazing" target="auto focus" to="24" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="395">
+        <sentences>
+            <sentence id="395">
+                <text>The autofocus with video on this is wild .</text>
+                <Opinions>
+                    <Opinion category="Exposure" from="4" polarity="Positive" sentiment="wild" target="autofocus with video" to="24" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1262">
+        <sentences>
+            <sentence id="1262">
+                <text>Good focus , near or far .</text>
+                <Opinions>
+                    <Opinion category="Exposure" from="5" polarity="Positive" sentiment="Good" target="focus" to="10" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="11">
+        <sentences>
+            <sentence id="11">
+                <text>The electronic zoom on the kit lens seems problematic ( first one I got did n't work , but Amazon return went well ) .</text>
+                <Opinions>
+                    <Opinion category="Zoom" from="4" polarity="Negative" sentiment="problematic" target="electronic zoom" to="19" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="978">
+        <sentences>
+            <sentence id="978">
+                <text>30x optical zoom is terrific , BTW .</text>
+                <Opinions>
+                    <Opinion category="Zoom" from="0" polarity="Positive" sentiment="terrific" target="30x optical zoom" to="16" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1046">
+        <sentences>
+            <sentence id="1046">
+                <text>the zoom is great .</text>
+                <Opinions>
+                    <Opinion category="Zoom" from="4" polarity="Positive" sentiment="great" target="zoom" to="8" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="567">
+        <sentences>
+            <sentence id="567">
+                <text>55 -210 mm lens is great for outdoors .</text>
+                <Opinions>
+                    <Opinion category="Lens" from="0" polarity="Positive" sentiment="great" target="55 -210 mm lens" to="15" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="108">
+        <sentences>
+            <sentence id="108">
+                <text>They are disappointingly soft .</text>
+                <Opinions>
+                    <Opinion category="Lens" from="0" polarity="Negative" sentiment="disappointingly soft" target="They" to="4" type="anaphora" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1137">
+        <sentences>
+            <sentence id="1137">
+                <text>Great camera and kit lenses .</text>
+                <Opinions>
+                    <Opinion category="Lens" from="17" polarity="Positive" sentiment="Great" target="kit lenses" to="27" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="190">
+        <sentences>
+            <sentence id="190">
+                <text>I 've also noticed after a picture , if I turn the cam off and this happens even with a full battery , the lens does not always retract .</text>
+                <Opinions>
+                    <Opinion category="Lens" from="107" polarity="Negative" sentiment="does not always retract" target="lens" to="111" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="594">
+        <sentences>
+            <sentence id="594">
+                <text>But Sony gets 3 stars for VERY limited lens selection .</text>
+                <Opinions>
+                    <Opinion category="Lens" from="39" polarity="Negative" sentiment="VERY limited" target="lens" to="43" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="477">
+        <sentences>
+            <sentence id="477">
+                <text>The fact that it can use the whole line of E-mount lenses makes it very upgradable .</text>
+                <Opinions>
+                    <Opinion category="Lens" from="43" polarity="Positive" sentiment="very upgradable" target="E-mount lenses" to="57" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="532">
+        <sentences>
+            <sentence id="532">
+                <text>It takes great pictures especially with the Sony 1.8 / 35 mm prime .</text>
+                <Opinions>
+                    <Opinion category="Lens" from="44" polarity="Positive" sentiment="great" target="Sony 1.8 / 35 mm prime" to="66" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="578">
+        <sentences>
+            <sentence id="578">
+                <text>after 10 shots the kit lens just die like that</text>
+                <Opinions>
+                    <Opinion category="Lens" from="19" polarity="Negative" sentiment="die" target="kit lens" to="27" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="371">
+        <sentences>
+            <sentence id="371">
+                <text>Also the macro does not work that well .</text>
+                <Opinions>
+                    <Opinion category="Lens" from="9" polarity="Negative" sentiment="not work that well" target="macro" to="14" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="180">
+        <sentences>
+            <sentence id="180">
+                <text>The camera , plus good lenses , equals to a great performance .</text>
+                <Opinions>
+                    <Opinion category="Lens" from="23" polarity="Positive" sentiment="good" target="lenses" to="29" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="880">
+        <sentences>
+            <sentence id="880">
+                <text>Fast service , great value for the money</text>
+                <Opinions>
+                    <Opinion category="Performance" from="5" polarity="Positive" sentiment="Fast" target="service" to="12" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="531">
+        <sentences>
+            <sentence id="531">
+                <text>It is easy to carry , set up , and shoot .</text>
+                <Opinions>
+                    <Opinion category="Performance" from="22" polarity="Positive" sentiment="easy" target="set up" to="28" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="441">
+        <sentences>
+            <sentence id="441">
+                <text>Works great .</text>
+                <Opinions>
+                    <Opinion category="Performance" from="0" polarity="" sentiment="" target="Works great" to="11" type="implicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="356">
+        <sentences>
+            <sentence id="356">
+                <text>The camera was smaller than most DSLRs ( which was nice in some ways ) , but we found it difficult to hold the camera and not press buttons or bump up against the lens .</text>
+                <Opinions>
+                    <Opinion category="Dimension" from="4" polarity="Negative" sentiment="difficult to hold" target="camera" to="10" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="142">
+        <sentences>
+            <sentence id="142">
+                <text>I love Sony 's compact design of this camera .</text>
+                <Opinions>
+                    <Opinion category="Dimension" from="15" polarity="Positive" sentiment="love" target="compact design" to="29" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="288">
+        <sentences>
+            <sentence id="288">
+                <text>I love the light weight and small size .</text>
+                <Opinions>
+                    <Opinion category="Dimension" from="28" polarity="Positive" sentiment="love" target="small size" to="38" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="666">
+        <sentences>
+            <sentence id="666">
+                <text>Amazing camera - lightweight , super fast frames per second , excellent in low lighting .</text>
+                <Opinions>
+                    <Opinion category="Dimension" from="17" polarity="Positive" sentiment="Amazing" target="lightweight" to="28" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="109">
+        <sentences>
+            <sentence id="109">
+                <text>This camera is just the right size and takes wonderful pictures .</text>
+                <Opinions>
+                    <Opinion category="Dimension" from="30" polarity="Positive" sentiment="right" target="size" to="34" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="233">
+        <sentences>
+            <sentence id="233">
+                <text>Quite a nice little camera .</text>
+                <Opinions>
+                    <Opinion category="Dimension" from="13" polarity="Positive" sentiment="Quite a nice" target="little camera" to="26" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="57">
+        <sentences>
+            <sentence id="57">
+                <text>The camera is small and lightweight so I can take it for times when I do not want my bigger camera .</text>
+                <Opinions>
+                    <Opinion category="Dimension" from="14" polarity="Positive" sentiment="" target="small" to="19" type="implicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="939">
+        <sentences>
+            <sentence id="939">
+                <text>I also love the size .</text>
+                <Opinions>
+                    <Opinion category="Dimension" from="16" polarity="Positive" sentiment="love" target="size" to="20" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="294">
+        <sentences>
+            <sentence id="294">
+                <text>It is good and convenient to carry .</text>
+                <Opinions>
+                    <Opinion category="Dimension" from="15" polarity="Positive" sentiment="" target="convenient to carry" to="34" type="implicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="288">
+        <sentences>
+            <sentence id="288">
+                <text>I love the light weight and small size .</text>
+                <Opinions>
+                    <Opinion category="Dimension" from="11" polarity="Positive" sentiment="love" target="light weight" to="23" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1048">
+        <sentences>
+            <sentence id="1048">
+                <text>Perfect size for those ' quick shots ' you miss out on because you did n't remember to drag your ' Bestie ' Camera with you .</text>
+                <Opinions>
+                    <Opinion category="Dimension" from="8" polarity="Positive" sentiment="Perfect" target="size" to="12" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1135">
+        <sentences>
+            <sentence id="1135">
+                <text>As with any new camera it takes a while to learn how to use all of the features , but love it 's size , image quality ( especially low - light ) , features , and ease of operation .</text>
+                <Opinions>
+                    <Opinion category="General" from="71" polarity="Positive" sentiment="love" target="features" to="79" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="176">
+        <sentences>
+            <sentence id="176">
+                <text>For my uses the a6000 is a great camera .</text>
+                <Opinions>
+                    <Opinion category="General" from="33" polarity="Positive" sentiment="great" target="camera" to="39" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="591">
+        <sentences>
+            <sentence id="591">
+                <text>Like this camera very much .</text>
+                <Opinions>
+                    <Opinion category="General" from="10" polarity="Positive" sentiment="Like" target="camera" to="16" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="866">
+        <sentences>
+            <sentence id="866">
+                <text>good product , the quality is ok . but the lens are very expensive .</text>
+                <Opinions>
+                    <Opinion category="General" from="5" polarity="Positive" sentiment="good" target="product" to="12" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="433">
+        <sentences>
+            <sentence id="433">
+                <text>ive only had it a few days , seems pretty good .</text>
+                <Opinions>
+                    <Opinion category="General" from="13" polarity="Positive" sentiment="seems pretty good" target="it" to="15" type="anaphora" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="963">
+        <sentences>
+            <sentence id="963">
+                <text>One day after not using it for a few weeks , it would n't power on .</text>
+                <Opinions>
+                    <Opinion category="General" from="24" polarity="Negative" sentiment="wouldn't power on" target="it" to="26" type="anaphora" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="928">
+        <sentences>
+            <sentence id="928">
+                <text>With no viewfinder other than the display , this camera really misses its potential .</text>
+                <Opinions>
+                    <Opinion category="General" from="49" polarity="Negative" sentiment="misses its potential" target="camera" to="55" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="515">
+        <sentences>
+            <sentence id="515">
+                <text>GREAT Camera .</text>
+                <Opinions>
+                    <Opinion category="General" from="6" polarity="Positive" sentiment="GREAT" target="Camera" to="12" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="349">
+        <sentences>
+            <sentence id="349">
+                <text>This camera is nice and light and compact .</text>
+                <Opinions>
+                    <Opinion category="General" from="5" polarity="Positive" sentiment="nice" target="camera" to="11" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="265">
+        <sentences>
+            <sentence id="265">
+                <text>I am looking at the Sony FDXR53 which I think I would really like but now I 'm kind of afraid to buy Sony because of the over heat problem with this camera .</text>
+                <Opinions>
+                    <Opinion category="General" from="149" polarity="Negative" sentiment="over heat" target="camera" to="155" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="417">
+        <sentences>
+            <sentence id="417">
+                <text>LOVE IT , I WANT MORE</text>
+                <Opinions>
+                    <Opinion category="General" from="5" polarity="Positive" sentiment="LOVE" target="IT" to="7" type="anaphora" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="557">
+        <sentences>
+            <sentence id="557">
+                <text>I really enjoy using this camera .</text>
+                <Opinions>
+                    <Opinion category="General" from="26" polarity="Positive" sentiment="I really enjoy" target="camera" to="32" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="488">
+        <sentences>
+            <sentence id="488">
+                <text>I am in love with this camera .</text>
+                <Opinions>
+                    <Opinion category="General" from="23" polarity="Positive" sentiment="love" target="camera" to="29" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="162">
+        <sentences>
+            <sentence id="162">
+                <text>Not only portable for a little girl like me but also has good quality !</text>
+                <Opinions>
+                    <Opinion category="General" from="62" polarity="Positive" sentiment="good" target="quality" to="69" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="520">
+        <sentences>
+            <sentence id="520">
+                <text>Great camera for the time being .</text>
+                <Opinions>
+                    <Opinion category="General" from="6" polarity="Positive" sentiment="Great" target="camera" to="12" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="478">
+        <sentences>
+            <sentence id="478">
+                <text>Great camera .</text>
+                <Opinions>
+                    <Opinion category="General" from="6" polarity="Positive" sentiment="Great" target="camera" to="12" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1134">
+        <sentences>
+            <sentence id="1134">
+                <text>It arrived on time and love it !</text>
+                <Opinions>
+                    <Opinion category="General" from="28" polarity="Positive" sentiment="love" target="it" to="30" type="anaphora" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="414">
+        <sentences>
+            <sentence id="414">
+                <text>Such a great camera .</text>
+                <Opinions>
+                    <Opinion category="General" from="13" polarity="Positive" sentiment="great" target="camera" to="19" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="597">
+        <sentences>
+            <sentence id="597">
+                <text>Such a great camera for the price and packed with features .</text>
+                <Opinions>
+                    <Opinion category="General" from="13" polarity="Positive" sentiment="great" target="camera" to="19" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="889">
+        <sentences>
+            <sentence id="889">
+                <text>After much research on the SONY customer support site , and countless attempts to clean the battery head - ends , use different batteries , USB charge , etc. … I am finally told by Sony that I must pay $ 114 to have it serviced and repaired :-( I can not help but feel cheated by SONY .</text>
+                <Opinions>
+                    <Opinion category="General" from="27" polarity="Negative" sentiment="cheated" target="SONY" to="31" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="209">
+        <sentences>
+            <sentence id="209">
+                <text>Stay away or you might have to buy extended warranty for this crappy product .</text>
+                <Opinions>
+                    <Opinion category="General" from="0" polarity="Negative" sentiment="" target="Stay away" to="9" type="implicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="144">
+        <sentences>
+            <sentence id="144">
+                <text>Other than that , great camera !</text>
+                <Opinions>
+                    <Opinion category="General" from="24" polarity="Positive" sentiment="great" target="camera" to="30" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="576">
+        <sentences>
+            <sentence id="576">
+                <text>The camera is compact and light - weight .</text>
+                <Opinions>
+                    <Opinion category="General" from="4" polarity="Positive" sentiment="compact" target="camera" to="10" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="192">
+        <sentences>
+            <sentence id="192">
+                <text>Overall , the camera is fast and does take great photo 's but the ' quirks ' are quickly adding up .</text>
+                <Opinions>
+                    <Opinion category="General" from="14" polarity="Positive" sentiment="fast" target="camera" to="20" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="793">
+        <sentences>
+            <sentence id="793">
+                <text>This camera is amazing so far</text>
+                <Opinions>
+                    <Opinion category="General" from="5" polarity="Positive" sentiment="amazing" target="camera" to="11" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="768">
+        <sentences>
+            <sentence id="768">
+                <text>This camera is perfect for a beginner .</text>
+                <Opinions>
+                    <Opinion category="General" from="15" polarity="Positive" sentiment="camera" target="perfect" to="22" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="944">
+        <sentences>
+            <sentence id="944">
+                <text>Very nice camera .</text>
+                <Opinions>
+                    <Opinion category="General" from="10" polarity="Positive" sentiment="Very nice" target="camera" to="16" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="87">
+        <sentences>
+            <sentence id="87">
+                <text>still very handy .</text>
+                <Opinions>
+                    <Opinion category="General" from="6" polarity="Positive" sentiment="" target="very handy" to="16" type="implicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="353">
+        <sentences>
+            <sentence id="353">
+                <text>This is a great camera .</text>
+                <Opinions>
+                    <Opinion category="General" from="16" polarity="Positive" sentiment="great" target="camera" to="22" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="898">
+        <sentences>
+            <sentence id="898">
+                <text>This is the most expensive camera I have ever bought , and the biggest disappointment .</text>
+                <Opinions>
+                    <Opinion category="General" from="27" polarity="Negative" sentiment="biggest disappointment" target="camera" to="33" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="232">
+        <sentences>
+            <sentence id="232">
+                <text>I love it and appreciate all it does .</text>
+                <Opinions>
+                    <Opinion category="General" from="7" polarity="Positive" sentiment="appreciate" target="it" to="9" type="anaphora" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="245">
+        <sentences>
+            <sentence id="245">
+                <text>If there was a zero star rating , that 's what their camera service deserves .</text>
+                <Opinions>
+                    <Opinion category="General" from="53" polarity="Negative" sentiment="zero star rating" target="camera service" to="67" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1047">
+        <sentences>
+            <sentence id="1047">
+                <text>love sony products -- so easy to transfer images to my mac</text>
+                <Opinions>
+                    <Opinion category="General" from="5" polarity="Positive" sentiment="love" target="sony" to="9" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="995">
+        <sentences>
+            <sentence id="995">
+                <text>The camera is not worth anything more than taking snapshots .</text>
+                <Opinions>
+                    <Opinion category="General" from="4" polarity="Negative" sentiment="not worth" target="camera" to="10" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="287">
+        <sentences>
+            <sentence id="287">
+                <text>We got it for our trip to Australia and New Zealand and took thousands of pictures over the course of a month .</text>
+                <Opinions>
+                    <Opinion category="General" from="7" polarity="" sentiment="" target="it" to="9" type="anaphora" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="463">
+        <sentences>
+            <sentence id="463">
+                <text>I did n't enjoy this camera , I 'm used to my DSLR and the expensive lens I have invested in several years ago .</text>
+                <Opinions>
+                    <Opinion category="General" from="21" polarity="Negative" sentiment="didn't enjoy" target="camera" to="27" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="563">
+        <sentences>
+            <sentence id="563">
+                <text>its a overall great camera .</text>
+                <Opinions>
+                    <Opinion category="General" from="20" polarity="Positive" sentiment="great" target="camera" to="26" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1090">
+        <sentences>
+            <sentence id="1090">
+                <text>Beatiful camera that takes really good pictures but outstanding video also .</text>
+                <Opinions>
+                    <Opinion category="General" from="9" polarity="Positive" sentiment="Beatiful" target="camera" to="15" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1102">
+        <sentences>
+            <sentence id="1102">
+                <text>Easy to use</text>
+                <Opinions>
+                    <Opinion category="General" from="8" polarity="Positive" sentiment="Easy" target="use" to="11" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="565">
+        <sentences>
+            <sentence id="565">
+                <text>Great camera !!!</text>
+                <Opinions>
+                    <Opinion category="General" from="6" polarity="Positive" sentiment="Great" target="camera" to="12" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="386">
+        <sentences>
+            <sentence id="386">
+                <text>Love , Love , LOVE !</text>
+                <Opinions>
+                    <Opinion category="General" from="0" polarity="" sentiment="" target="Love , Love , LOVE" to="18" type="implicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="475">
+        <sentences>
+            <sentence id="475">
+                <text>Great camera for a beginner .</text>
+                <Opinions>
+                    <Opinion category="General" from="6" polarity="Positive" sentiment="Great" target="camera" to="12" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1168">
+        <sentences>
+            <sentence id="1168">
+                <text>Excellent camera and price matched the difference after I received this camera .</text>
+                <Opinions>
+                    <Opinion category="General" from="10" polarity="Positive" sentiment="Excellent" target="camera" to="16" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1239">
+        <sentences>
+            <sentence id="1239">
+                <text>Wonderful camera .</text>
+                <Opinions>
+                    <Opinion category="General" from="10" polarity="Positive" sentiment="Wonderful" target="camera" to="16" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="18">
+        <sentences>
+            <sentence id="18">
+                <text>The focus speed is very fast , easy to use</text>
+                <Opinions>
+                    <Opinion category="General" from="39" polarity="Positive" sentiment="easy" target="use" to="42" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1064">
+        <sentences>
+            <sentence id="1064">
+                <text>Like this camera and have no issues with Sony customer service .</text>
+                <Opinions>
+                    <Opinion category="General" from="10" polarity="Positive" sentiment="Like" target="camera" to="16" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="171">
+        <sentences>
+            <sentence id="171">
+                <text>Only shot about 10k with it but . . enough to know it does a good job .</text>
+                <Opinions>
+                    <Opinion category="General" from="21" polarity="Positive" sentiment="good job" target="it" to="23" type="anaphora" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="766">
+        <sentences>
+            <sentence id="766">
+                <text>Love his camera so much !</text>
+                <Opinions>
+                    <Opinion category="General" from="9" polarity="Positive" sentiment="Love" target="camera" to="15" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="315">
+        <sentences>
+            <sentence id="315">
+                <text>I mean , it is stunningly good at doing things that we had no idea we had to have even five years ago .</text>
+                <Opinions>
+                    <Opinion category="General" from="9" polarity="Positive" sentiment="stunningly good" target="it" to="11" type="anaphora" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1087">
+        <sentences>
+            <sentence id="1087">
+                <text>great camera , lots of useful features and professional grade images .</text>
+                <Opinions>
+                    <Opinion category="General" from="6" polarity="Positive" sentiment="great" target="camera" to="12" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="712">
+        <sentences>
+            <sentence id="712">
+                <text>I like it !</text>
+                <Opinions>
+                    <Opinion category="General" from="7" polarity="Positive" sentiment="like" target="it" to="9" type="anaphora" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="285">
+        <sentences>
+            <sentence id="285">
+                <text>I 've been very happy with this camera .</text>
+                <Opinions>
+                    <Opinion category="General" from="32" polarity="Positive" sentiment="very happy" target="camera" to="38" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="672">
+        <sentences>
+            <sentence id="672">
+                <text>Love this thing !</text>
+                <Opinions>
+                    <Opinion category="General" from="5" polarity="Positive" sentiment="Love" target="this thing" to="15" type="anaphora" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1219">
+        <sentences>
+            <sentence id="1219">
+                <text>Great camera , well built and outstanding picture quality , could n't be happier .</text>
+                <Opinions>
+                    <Opinion category="General" from="6" polarity="Positive" sentiment="Great" target="camera" to="12" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="116">
+        <sentences>
+            <sentence id="116">
+                <text>It 's great to have a camera I can just press record and trust it 's auto focus .</text>
+                <Opinions>
+                    <Opinion category="General" from="22" polarity="Positive" sentiment="great" target="camera" to="28" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="231">
+        <sentences>
+            <sentence id="231">
+                <text>The very best mirrorless camera .</text>
+                <Opinions>
+                    <Opinion category="General" from="14" polarity="Positive" sentiment="very best" target="mirrorless camera" to="31" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="858">
+        <sentences>
+            <sentence id="858">
+                <text>I 've had this camera for a while now and I really love it .</text>
+                <Opinions>
+                    <Opinion category="General" from="56" polarity="Positive" sentiment="love" target="it" to="58" type="anaphora" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="236">
+        <sentences>
+            <sentence id="236">
+                <text>Well designed , Sony has created a nice durable product .</text>
+                <Opinions>
+                    <Opinion category="General" from="48" polarity="Positive" sentiment="nice durabl" target="product" to="55" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="64">
+        <sentences>
+            <sentence id="64">
+                <text>I purchased this camera in early June of last year for golf course and real estate photography and have enjoyed it very much ( I 'm pretty much a novice photographer ) .</text>
+                <Opinions>
+                    <Opinion category="General" from="17" polarity="Positive" sentiment="enjoyed" target="camera" to="23" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="991">
+        <sentences>
+            <sentence id="991">
+                <text>This camera is absolutely worthless for any expert to use as a substitute for anything .</text>
+                <Opinions>
+                    <Opinion category="General" from="5" polarity="Negative" sentiment="worthless" target="camera" to="11" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="73">
+        <sentences>
+            <sentence id="73">
+                <text>So far we love it !</text>
+                <Opinions>
+                    <Opinion category="General" from="15" polarity="Positive" sentiment="love" target="it" to="17" type="anaphora" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="474">
+        <sentences>
+            <sentence id="474">
+                <text>But nice camera for price point .</text>
+                <Opinions>
+                    <Opinion category="General" from="9" polarity="Positive" sentiment="nice" target="camera" to="15" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="606">
+        <sentences>
+            <sentence id="606">
+                <text>The camera is very comfortable in my hands and lightweight - great for traveling and backpacking .</text>
+                <Opinions>
+                    <Opinion category="General" from="4" polarity="Positive" sentiment="comfortable" target="camera" to="10" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="364">
+        <sentences>
+            <sentence id="364">
+                <text>Sony is expensive and extremely unreliable , so now I stay away from Sony cameras .</text>
+                <Opinions>
+                    <Opinion category="General" from="69" polarity="Negative" sentiment="stay away" target="Sony cameras" to="81" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="161">
+        <sentences>
+            <sentence id="161">
+                <text>This is a perfect camera .</text>
+                <Opinions>
+                    <Opinion category="General" from="18" polarity="Positive" sentiment="perfect" target="camera" to="24" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="394">
+        <sentences>
+            <sentence id="394">
+                <text>I 'm totally disappointed for this product .</text>
+                <Opinions>
+                    <Opinion category="General" from="30" polarity="Negative" sentiment="totally disappointed" target="this product" to="42" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="78">
+        <sentences>
+            <sentence id="78">
+                <text>Does n't come with a battery or memory card .</text>
+                <Opinions>
+                    <Opinion category="Memory" from="32" polarity="Negative" sentiment="Doesn't come with" target="memory card" to="43" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="75">
+        <sentences>
+            <sentence id="75">
+                <text>Only downside is the expensive price .</text>
+                <Opinions>
+                    <Opinion category="Price" from="31" polarity="Negative" sentiment="expensive" target="price" to="36" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="454">
+        <sentences>
+            <sentence id="454">
+                <text>This is an amazing camera for the price .</text>
+                <Opinions>
+                    <Opinion category="Price" from="34" polarity="Positive" sentiment="amazing" target="price" to="39" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="163">
+        <sentences>
+            <sentence id="163">
+                <text>Real bargain when amazon is offering a discount</text>
+                <Opinions>
+                    <Opinion category="Price" from="0" polarity="Positive" sentiment="" target="Real bargain" to="12" type="implicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="593">
+        <sentences>
+            <sentence id="593">
+                <text>For the cost , it deserves 5 stars .</text>
+                <Opinions>
+                    <Opinion category="Price" from="8" polarity="Positive" sentiment="5 stars" target="cost" to="12" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="597">
+        <sentences>
+            <sentence id="597">
+                <text>Such a great camera for the price and packed with features .</text>
+                <Opinions>
+                    <Opinion category="Price" from="28" polarity="Positive" sentiment="great" target="price" to="33" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="355">
+        <sentences>
+            <sentence id="355">
+                <text>We ultimately returned this camera as the images came out with a blue tint ( using the default settings ) .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="42" polarity="Negative" sentiment="with a blue tint" target="images" to="48" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="904">
+        <sentences>
+            <sentence id="904">
+                <text>Some of the photos I took inside the Sistine Chapel , Basilica , and underground monasteries ( and other places where flash is not allowed ) look well lit , even though there was minimal light .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="12" polarity="Positive" sentiment="well lit" target="photos" to="18" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="8">
+        <sentences>
+            <sentence id="8">
+                <text>I am not a professional photgrapher , but the quality of the pictures make it seem like I am .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="61" polarity="Positive" sentiment="quality" target="pictures" to="69" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="532">
+        <sentences>
+            <sentence id="532">
+                <text>It takes great pictures especially with the Sony 1.8 / 35 mm prime .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="15" polarity="Positive" sentiment="great" target="pictures" to="23" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="15">
+        <sentences>
+            <sentence id="15">
+                <text>Specially good in low light and uses HDR automatically if needed .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="18" polarity="Positive" sentiment="good" target="low light" to="27" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="109">
+        <sentences>
+            <sentence id="109">
+                <text>This camera is just the right size and takes wonderful pictures .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="55" polarity="Positive" sentiment="wonderful" target="pictures" to="63" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="561">
+        <sentences>
+            <sentence id="561">
+                <text>it takes Beautiful pictures and great video at 1080p 60 fps , easy to use , a awesome auto - focus , easy menu handling , and ok battery .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="19" polarity="Positive" sentiment="Beautiful" target="pictures" to="27" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="943">
+        <sentences>
+            <sentence id="943">
+                <text>Wife loves it , picture quality is amazing .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="16" polarity="Positive" sentiment="amazing" target="picture quality" to="31" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="84">
+        <sentences>
+            <sentence id="84">
+                <text>takes great pix .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="12" polarity="Positive" sentiment="takes great" target="pix" to="15" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="582">
+        <sentences>
+            <sentence id="582">
+                <text>I did buy the Sony 35 mm lens and that made the pictures even better .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="48" polarity="Positive" sentiment="better" target="pictures" to="56" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="627">
+        <sentences>
+            <sentence id="627">
+                <text>great colors .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="6" polarity="Positive" sentiment="great" target="colors" to="12" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="367">
+        <sentences>
+            <sentence id="367">
+                <text>The picture quality is very nice , the pictures comes up very sharp and colorful , there is no need to edit .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="39" polarity="Positive" sentiment="very sharp" target="pictures" to="47" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="449">
+        <sentences>
+            <sentence id="449">
+                <text>My pictures are more clearer and I do not have to much retouch with my pictures .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="3" polarity="Positive" sentiment="more clearer" target="pictures" to="11" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1103">
+        <sentences>
+            <sentence id="1103">
+                <text>I like the small and lightness , taking a very clear pictures .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="53" polarity="Positive" sentiment="very clear" target="pictures" to="61" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1072">
+        <sentences>
+            <sentence id="1072">
+                <text>No auto zoom or fix zoom in auto tracking mode but very FAST auto object tracking with clear video .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="28" polarity="Negative" sentiment="No auto zoom or fix zoom" target="auto tracking mode" to="46" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="53">
+        <sentences>
+            <sentence id="53">
+                <text>This camera take beautiful photos .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="27" polarity="Positive" sentiment="beautiful" target="photos" to="33" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="158">
+        <sentences>
+            <sentence id="158">
+                <text>This camera takes insane pictures !</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="25" polarity="Positive" sentiment="insane" target="pictures" to="33" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="805">
+        <sentences>
+            <sentence id="805">
+                <text>Bought this camera for when my baby arrives so we can have some good quality pictures and so far testing the camera out with photos of our dog and a wedding we were at last weekend the quality of the images is amazing .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="185" polarity="Positive" sentiment="amazing" target="quality of the images" to="206" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1014">
+        <sentences>
+            <sentence id="1014">
+                <text>The panoramic feature is wonderful .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="4" polarity="Positive" sentiment="wonderful" target="panoramic feature" to="21" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="896">
+        <sentences>
+            <sentence id="896">
+                <text>I was disappointed in the quality of the camera itself , It does n't seem to be any better than my old one .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="26" polarity="Negative" sentiment="disappointed" target="quality" to="33" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="976">
+        <sentences>
+            <sentence id="976">
+                <text>Simple , easy to use , easy to navigate menus , takes great pictures .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="60" polarity="Positive" sentiment="great" target="pictures" to="68" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="252">
+        <sentences>
+            <sentence id="252">
+                <text>The features are wonderful and it delivers great quality photos in raw .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="57" polarity="Positive" sentiment="great quality" target="photos in raw" to="70" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="229">
+        <sentences>
+            <sentence id="229">
+                <text>I love this camera , great pictures even in low lights .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="27" polarity="Positive" sentiment="great" target="pictures" to="35" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="534">
+        <sentences>
+            <sentence id="534">
+                <text>It 's affordable , pocketable , and the image quality is * almost * good enough for * some * professional photographers .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="40" polarity="Positive" sentiment="*almost* good" target="image quality" to="53" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1011">
+        <sentences>
+            <sentence id="1011">
+                <text>I have used it in several types of light and taken great pictures with it .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="57" polarity="Positive" sentiment="great" target="pictures" to="65" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="506">
+        <sentences>
+            <sentence id="506">
+                <text>I 've only taken about 300 shots with the a6000 and the image quality appears to be excellent .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="56" polarity="Positive" sentiment="excellent" target="image quality" to="69" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="901">
+        <sentences>
+            <sentence id="901">
+                <text>The reason I do n't like the camera is that I ca n't take any pictures with it .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="62" polarity="Negative" sentiment="can't take" target="pictures" to="70" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="680">
+        <sentences>
+            <sentence id="680">
+                <text>This camera takes really great pictures !</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="31" polarity="Positive" sentiment="really great" target="pictures" to="39" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="682">
+        <sentences>
+            <sentence id="682">
+                <text>Alone , the camera takes very high quality pictures so if you know how to use all the different functions , I 'm sure the pictures would come out even more amazing .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="43" polarity="Positive" sentiment="very high quality" target="pictures" to="51" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="228">
+        <sentences>
+            <sentence id="228">
+                <text>Takes great pictures and easy to work .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="12" polarity="Positive" sentiment="great" target="pictures" to="20" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1089">
+        <sentences>
+            <sentence id="1089">
+                <text>Awesome photos !</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="8" polarity="Positive" sentiment="Awesome" target="photos" to="14" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="517">
+        <sentences>
+            <sentence id="517">
+                <text>I love the pictures it takes .</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="11" polarity="Positive" sentiment="love" target="pictures" to="19" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="80">
+        <sentences>
+            <sentence id="80">
+                <text>Awesome image quality and price</text>
+                <Opinions>
+                    <Opinion category="Imaging" from="8" polarity="Positive" sentiment="Awesome" target="image quality" to="21" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1026">
+        <sentences>
+            <sentence id="1026">
+                <text>Yeah .... that feature is n't available in this model .</text>
+                <Opinions>
+                    <Opinion category="Video" from="15" polarity="Negative" sentiment="isn't available" target="feature" to="22" type="anaphora" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1072">
+        <sentences>
+            <sentence id="1072">
+                <text>No auto zoom or fix zoom in auto tracking mode but very FAST auto object tracking with clear video .</text>
+                <Opinions>
+                    <Opinion category="Video" from="93" polarity="Positive" sentiment="clear" target="video" to="98" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1246">
+        <sentences>
+            <sentence id="1246">
+                <text>No manual adjustment of exposure in video mode .</text>
+                <Opinions>
+                    <Opinion category="Video" from="36" polarity="Negative" sentiment="No manual adjustment" target="video" to="41" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="45">
+        <sentences>
+            <sentence id="45">
+                <text>I can make great videos using just the kit lens</text>
+                <Opinions>
+                    <Opinion category="Video" from="17" polarity="Positive" sentiment="great" target="videos" to="23" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="959">
+        <sentences>
+            <sentence id="959">
+                <text>Too bad it does n't send videos over the wifi .</text>
+                <Opinions>
+                    <Opinion category="Video" from="25" polarity="Negative" sentiment="doesn't send" target="videos" to="31" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="342">
+        <sentences>
+            <sentence id="342">
+                <text>I am amazed at how quickly I have gotten used to viewing and composing images using the digital screen rather than the electronic view finder .</text>
+                <Opinions>
+                    <Opinion category="Display" from="88" polarity="Positive" sentiment="gotten used to viewing and composing images" target="digital screen" to="102" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1263">
+        <sentences>
+            <sentence id="1263">
+                <text>View finder was a great addition over usual cameras .</text>
+                <Opinions>
+                    <Opinion category="Display" from="0" polarity="Positive" sentiment="great addition" target="View finder" to="11" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="511">
+        <sentences>
+            <sentence id="511">
+                <text>I also found the electronic viewfinder annoying .</text>
+                <Opinions>
+                    <Opinion category="Display" from="17" polarity="Negative" sentiment="annoying" target="electronic viewfinder" to="38" type="explicit" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+</Reviews>
