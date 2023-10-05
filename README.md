@@ -57,7 +57,7 @@ The distribution of the aspects across attributes is given table below. We can s
 If you use our dataset, please cite the following paper:
 
 ```bibtex
-@INPROCEEDINGS{10102070,
+@INPROCEEDINGS{vargas2022,
   author={Vargas, Danny Suarez and Pessutto, Lucas R. C. and Moreira, Viviane P. and de Melo, Tiago and Da Silva, Altigran S.},
   booktitle={2022 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)}, 
   title={EurOpi: Multilingual Aspect-Based Sentiment Analysis enabled by a Knowledge Base}, 
